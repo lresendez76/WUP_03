@@ -1,7 +1,7 @@
 ---
 title: "Alcohol vs Seat choice"
-author: "Your Name"
-date: "Fall 2020"
+author: "Luis Resendez"
+date: "Summer 2024"
 output: html_document
 ---
 
@@ -38,7 +38,6 @@ basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='e
 ## Numerical Summarys 
 
 ## Inferential Tests
-
+The p-value is 0.000116, less than 0.05 so we reject the null hypothesis 
 ## Conclusions
-
-
+There is a difference in alcohol consumption based where people sit.
